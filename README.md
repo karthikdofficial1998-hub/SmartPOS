@@ -46,7 +46,13 @@ com.example.billingapp
 
 ## 📸 Screenshots
 
-*(Add your screenshots here later)*
+| Splash Screen | Startup Screen | Scanner Screen |
+|:---:|:---:|:---:|
+| <img src="screenshots/SplashScreen.png" width="200"> | <img src="screenshots/startupscreen.png" width="200"> | <img src="screenshots/ScannerScreen.png" width="200"> |
+
+| Product Details | Cart Screen | Checkout Screen |
+|:---:|:---:|:---:|
+| <img src="screenshots/ProductScreen.png" width="200"> | <img src="screenshots/Cart.png" width="200"> | <img src="screenshots/Checkout.png" width="200"> |
 
 ## 🚦 Getting Started
 
